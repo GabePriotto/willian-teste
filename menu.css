@@ -1,0 +1,38 @@
+body {
+    background-image: url('./fundo-de-efeito-vhs_23-2150130954.avif');
+    background-size: contain;
+    background-size: 100% 100%;
+    width: 100vw;
+    height: 100vh;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.title {
+    font-size: 100px;
+    text-align: center;
+    margin-top: 50px;
+    color: antiquewhite;
+}
+.subtitle {
+    font-size: 90px;
+    text-align: center;
+    margin-top: 10px;
+    color: antiquewhite;
+    font-family: monospace;
+}
+.div {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+button {
+    margin-top: 20px;
+    border-radius: 10px;
+    height: 80px;
+    width: 110px;
+    background-color: lightgray;
+    font-size: 30px;
+}

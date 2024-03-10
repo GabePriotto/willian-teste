@@ -1,0 +1,32 @@
+body {
+    background-image: url('./download\ \(1\).jpg');
+    background-size: contain;
+    background-size: 100% 100%;
+    width: 100vw;
+    height: 100vh;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.verde {
+    text-align: center;
+    margin-top: 10px;
+}
+.sangue {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+button {
+    height: 50px;
+    width: 60px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.div {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
